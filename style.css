@@ -1,0 +1,121 @@
+
+body{
+    width: 100%;
+    overflow-x:hidden ;
+    background-color: white;
+}
+/* .vv{
+    position: fixed;
+    z-index: 999999999;
+} */
+.rog{
+    padding-left: 10em;
+}
+/* .navt{
+    margin-left: 5rem;
+}
+.nav-color{
+    color: black;
+}
+.abshar{
+    width: 80px;
+}
+.adhil{
+    font: weight 5px;;
+} */
+.fds{
+    letter-spacing: 9px;
+}
+.con{
+    z-index: 8;
+}
+.toop{
+    height: 35px;
+}
+.navbar{
+    width: 100%;
+    position: fixed;
+
+    z-index: 7;
+}
+.nav-item{
+    font-size: 14px;
+    font-weight: 400;
+}
+.okk{
+    background-color: #F5F5F5;
+}
+.thumbnail{
+    background-color: #F5F5F5;
+}
+h5{
+    text-decoration: none;
+}
+.ajill{
+    display: flex;
+    justify-content: center;
+}
+/* .work-box {
+    margin-bottom: 3rem;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    background-color: #fff;
+    height: 20.5em
+  }
+.work-box:hover img {
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+  }
+  .work-img {
+    display: block;
+    overflow: hidden;
+  }
+  
+  
+  .work-img img {
+    transition: all 1s;
+  } */
+  .work-image:hover{
+    transform: scale(1.1);
+    /* -webkit-transition: -webkit-transform 1s ease; */
+    transition: transform 1s ease;
+  }
+  .HOT{
+    margin-top: 150px;
+  }
+  .Hotteam{
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+  }
+
+  /* cards */
+
+  .card {
+    width: 25rem;
+  }
+  .Lastpart{
+    width: 100%;
+    height: fit-content;
+    background-color: #F5F5F5;
+  }
+  .stars i{
+
+    font-size: 18px;
+    color: blue;
+}
+.hsix{
+    font-size: small;
+    font-weight: 300;
+}
+.ulli{
+    font-size: small;
+    font-weight: 600;
+}
+.foot1{
+    font-size: small;
+
+}
+footer{
+    background-color: #F5F5F5;
+}
